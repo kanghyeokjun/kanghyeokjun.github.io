@@ -1,3 +1,11 @@
+---
+title: "자기소개서"
+date: 2018-10-23 
+categories: jekyll update
+---
+
+
+
 # 자기소개서
 ------------
  ## 인적사항
