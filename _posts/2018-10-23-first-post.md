@@ -9,18 +9,18 @@ categories: jekyll update
 # 자기소개서
 ------------
 
-인적사항
+##인적사항
 - 이름 : 강혁준
 - 생년월일 : 1997.01.06
  
  
-#### Fork <br/>
-- <https://github.com/kanghyeokjun/pygame>[pygame]
-= 1학년부터 파이썬에 관심이 많았고, 기초코딩이라는 수업을 계기로 pygame을 이용하여 게임을 만들었고 python과 pygame에 관심이 많아져서 fork하게 되었습니다.
- - <https://github.com/kanghyeokjun/Python>[python]
+## Fork <br/>
+#### - <https://github.com/kanghyeokjun/pygame>[pygame]<br/>
+#### = 1학년부터 파이썬에 관심이 많았고, 기초코딩이라는 수업을 계기로 pygame을 이용하여 게임을 만들었고 python과 pygame에 관심이 많아져서 fork하게 되었습니다.
+#### - <https://github.com/kanghyeokjun/Python>[python]
  = 대학에 오면서 배운 첫 언어라서 관심을 많이 가지고 코딩연습을 했고, 파이썬에대한 관심이 많아지면서 파이게임을 접하게 되었고 파이썬에 대해 좀더 깊게 알고싶기 떄문에 fork했습니다.
- - <https://github.com/kanghyeokjun/free-programming-books>[free-programming-books]
- = 파이썬 뿐만 아니라 다른 언어에 대한 것도 자세히 나와있고 한글 지원도 되서 아직 git이 어색한 저에게 많은 도움이 될 것 같아서 fork 했습니다. ####
+#### - <https://github.com/kanghyeokjun/free-programming-books>[free-programming-books]
+ = 파이썬 뿐만 아니라 다른 언어에 대한 것도 자세히 나와있고 한글 지원도 되서 아직 git이 어색한 저에게 많은 도움이 될 것 같아서 fork 했습니다.
  
 
 - ### 첫 printf("hello world!");
