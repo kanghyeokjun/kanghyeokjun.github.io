@@ -10,8 +10,11 @@ categories: jekyll update
 ------------
 
 인적사항
+![kakaotalk_20181001_161238361](https://user-images.githubusercontent.com/27201254/47404741-561c8080-d789-11e8-8859-63c470393350.jpg)
+
 - 이름 : 강혁준
 - 생년월일 : 1997.01.06
+
  
  
 ## fork <br/>
