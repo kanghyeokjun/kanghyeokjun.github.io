@@ -9,12 +9,12 @@ categories: jekyll update
 # 자기소개서
 ------------
 
-인적사항
+**#인적사항
 
 ![resume](https://user-images.githubusercontent.com/27201254/47404796-92e87780-d789-11e8-87a0-d5ed871ced5b.png)
 
-- 이름 : 강혁준
-- 생년월일 : 1997.01.06
+- *이름 : 강혁준
+- *생년월일 : 1997.01.06
 
  
  
